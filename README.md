@@ -43,7 +43,8 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
-![Screenshot 2024-08-20 084756](https://github.com/user-attachments/assets/bfabafc7-e936-4d39-9532-0e7811f7e144)
+![image](https://github.com/user-attachments/assets/b089bc12-c3c8-4a26-96fc-22dd902cd962)
+
 
 
 
@@ -56,5 +57,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+
+![Screenshot 2024-08-20 084756](https://github.com/user-attachments/assets/bfabafc7-e936-4d39-9532-0e7811f7e144)
 
 ### RESULT: 
